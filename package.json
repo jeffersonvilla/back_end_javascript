@@ -1,6 +1,6 @@
 {
-	"author": "Jefferson Villa Cortés",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Jefferson Villa Cortes",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
